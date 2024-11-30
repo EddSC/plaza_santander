@@ -35,3 +35,4 @@ sqlalchemy-mixins==2.0.5
 typing_extensions==4.12.2
 Werkzeug==3.0.4
 gunicorn==23.0.0
+Flask-Cors==5.0.0
